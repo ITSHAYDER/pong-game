@@ -5,7 +5,7 @@ This is a simple implementation of the classic game Pong, created with Python an
 
 # How to Run the Game
 
-1.Clone the repository to your local machine using git clone https://github.com/username/pong-game.git
+1.Clone the repository to your local machine using git clone https://github.com/ITSHAYDER/pong-game
 2.Make sure you have Pygame installed. If you don't, run ```pip install pygame``` in your terminal or command prompt.
 3.Navigate to the directory where you cloned the repository and run ```python main.py ``` to start the game.
 # controls
